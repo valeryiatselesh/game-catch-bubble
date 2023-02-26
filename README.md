@@ -1,8 +1,6 @@
 # Game "Catch the bubble" :balloon:
 
-## Training project - game "Catch the bubble". 
-
-### The project is made using JS, CSS and HTML.
+### Training project - game "Catch the bubble". The project is made using JS, CSS and HTML.
 ---
 Key features:
 
